@@ -41,7 +41,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **A Hierarchical Framework for Real-Time Path Planning of Microswarm in Dynamic Environments**<br>
    **Yamei Li**, Ruijian Ge, Aoji Zhu, Jiachi Zhao, Danjing Shi, Yangmin Li, Lidong Yang<br>
    IEEE Robotics and Automation Letters (RAL), 2026. (JCR Q1, IF: 5.3)<br>
-   (**ICRA 2026 Poster**, **IEEE ICRA RAS Travel Grant Award**)
+   (**ICRA 2026 Poster**, <span style="color:#d32f2f">(**IEEE IROS RAS Travel Grant Award**)</span>)
 - **Automated Magnetic Microrobot Control: From Mathematical Modeling to Machine Learning**<br>
    **Yamei Li**, Yingxin Huo, Xiangyu Chu, Yangmin Li, Lidong Yang<br>
    Mathematics, 2025. (JCR Q1, IF: 2.2)<br>
