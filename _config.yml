@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianliang YAO's Homepage"
-description              : "Ph.D. student @ CUHK EE"
-repository               : "Metaphysicist0/Metaphysicist0.github.io"
+title                    : "Yamei LI's Homepage"
+description              : "Ph.D. Candidate @ PolyU ISE"
+repository               : "yummydeli/yumiLee.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianliang YAO"
+  name             : "Yamei LI"
   avatar           : "images/profile.jpg"
-  bio              : "AI-Driven Healthcare, Embodied Intelligence for medical robotics."
+  bio              : "AI for micro/nanorobot navigation and control."
   location         : "Hong Kong SAR"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XwJMmG4AAAAJ&hl=zh-CN"
-  email            : "2150248@tongji.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=TYkXesgAAAAJ&view_op=list_works&gmla=AIqSsVtiQm9XivAivrswe_4LnmUmSmTaaG0FiutPFUFRN9r142i4G6kT9cmYAARby-laYf4dCothWorWT7WwcuZmAY6x9CbnQrgSN8kIsaM"
+  email            : "yamei.li@connect.polyu.hk"
   researchgate     :
   uri              :
   bitbucket        :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "tianliang-yao-0968a4288"
+  linkedin         : "yamei-li-8023aa100"
   dblp             :
-  orcid            : "https://orcid.org/0009-0000-7063-3880"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
