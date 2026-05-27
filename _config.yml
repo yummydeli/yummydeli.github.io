@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yamei LI"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   bio              : "AI for micro/nanorobot navigation and control."
   location         : "Hong Kong SAR"
   employer         : 
