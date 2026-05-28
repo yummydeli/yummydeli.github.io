@@ -36,7 +36,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
   The International Journal of Robotics Research (IJRR), 2026. (JCR Q1, IF: 5.0, Accepted)<br>
 - **Machine Learning Achieves Accurate and Smooth Navigation Control for Microrobots**<br>
   **Yamei Li**, Ruijian Ge, Yun Wang, Yangmin Li, Lidong Yang<br>
-  IEEE Transactions on Automation Science and Engineering (TSAE), 2026. (JCR Q1, IF: 6.4)<br>
+  IEEE Transactions on Automation Science and Engineering (T-ASE), 2026. (JCR Q1, IF: 6.4)<br>
   (**IROS 2025 Oral**)
 - **A Hierarchical Framework for Real-Time Path Planning of Microswarm in Dynamic Environments**<br>
    **Yamei Li**, Ruijian Ge, Aoji Zhu, Jiachi Zhao, Danjing Shi, Yangmin Li, Lidong Yang<br>
