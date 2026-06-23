@@ -73,9 +73,11 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 # 🏆 Selected Honors and Awards
 - IEEE ICRA RAS Travel Grant Award, Oct. 2026
 - IEEE IROS RAS Travel Grant Award, May. 2025
+- Outstanding Graduates of Shanghai (Postgraduate), 2022
 - Tongji University Outstanding Graduate Student Scholarship (top 5%, 2 times), 2019-2021
 - Tongji University Excellent Student (top 5%, 2 times), 2019-2021
 - 2nd Prize in “HUAWEI Cup” The 16th National Post-Graduate Mathematical Contest in Modeling, Dec. 2019
+- Outstanding Graduates of Shanghai (Undergraduate), 2019
 - Outstanding Undergraduate Thesis Award of Shanghai Ocean University, Jun. 2019
 - 1st Prize of Shanghai Ocean University Scholarship of Excellence (top 5%, 7 times), 2015-2019
 - Shanghai Scholarship by Shanghai Municipal Education Commission (top 1%, 3 times), 2016-2018
