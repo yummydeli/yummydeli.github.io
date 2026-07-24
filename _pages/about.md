@@ -72,6 +72,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - ISE5312: Industrial Human-Robot Systems and Automation, 2025-2026 Fall.
 
 # 🏆 Selected Honors and Awards
+- HKSAR Government Scholarship Fund - Reaching Out Award 2025/26
 - IEEE ICRA RAS Travel Grant Award, Oct. 2026
 - IEEE IROS RAS Travel Grant Award, May. 2025
 - Outstanding Graduates of Shanghai (Postgraduate), 2022
