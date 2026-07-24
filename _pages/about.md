@@ -34,6 +34,9 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **Actuation-Constrained Control Framework for Optimal Microswarm Navigation with Swarm Stability Guarantee**<br>
   Xiangyu Chu†, **Yamei Li**†, Yunxi Tang, Yangmin Li, Lidong Yang<br>
   The International Journal of Robotics Research (IJRR), 2026. (JCR Q1, IF: 5.0, Accepted)<br>
+- **Physics-constrained Learning Framework for Trustworthy Microrobot Navigation Autonomy**<br>
+   Jiachi Zhao, **Yamei Li**, Yinghan Sun, Yun wang, Aoji Zhu, Danjing Shi, Xiang Li, Qing Chen, Chunhui Yuan, Antoine Ferreira, Li Zhang, Kai-Leung Yung, Lidong Yang<br>
+   Science Advances, 2026. (JCR Q1, IF: 12.5)<br>
 - **Machine Learning Achieves Accurate and Smooth Navigation Control for Microrobots**<br>
   **Yamei Li**, Ruijian Ge, Yun Wang, Yangmin Li, Lidong Yang<br>
   IEEE Transactions on Automation Science and Engineering (T-ASE), 2026. (JCR Q1, IF: 6.4)<br>
@@ -45,9 +48,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **Automated Magnetic Microrobot Control: From Mathematical Modeling to Machine Learning**<br>
    **Yamei Li**, Yingxin Huo, Xiangyu Chu, Yangmin Li, Lidong Yang<br>
    Mathematics, 2025. (JCR Q1, IF: 2.2)<br>
-- **Physics-constrained Learning Framework for Trustworthy Microrobot Navigation Autonomy**<br>
-   Jiachi Zhao, **Yamei Li**, Yinghan Sun, Yun wang, Aoji Zhu, Danjing Shi, Xiang Li, Qing Chen, Chunhui Yuan, Antoine Ferreira, Li Zhang, Kai-Leung Yung, Lidong Yang<br>
-   Science Advances, 2026. (JCR Q1, IF: 12.5, Accepted)<br>
+
    
 **Conference**
 - **Learning-Based Motion Controller for Reconfigurable Microswarms**<br>
