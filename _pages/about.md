@@ -48,7 +48,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **Automated Magnetic Microrobot Control: From Mathematical Modeling to Machine Learning**<br>
    **Yamei Li**, Yingxin Huo, Xiangyu Chu, Yangmin Li, Lidong Yang<br>
    Mathematics, 2025. (JCR Q1, IF: 2.2)<br>
-- **Ultra-fast Learning for Microrobot Navigation**<br>
+- **Minute-Scale Training for Microrobot Navigation**<br>
    Yinghan Sun, Aoji Zhu, Xiang Ji, **Yamei Li**, Jiachi Zhao, Yun Wang, Li Zhang, Huijun Gao, Lidong Yang. 
    Nature Machine Intelligence. 2026. (JCR Q1, IF: 29.8)
 
