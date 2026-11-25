@@ -34,6 +34,9 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **Actuation-Constrained Control Framework for Optimal Microswarm Navigation with Swarm Stability Guarantee**<br>
   Xiangyu Chu†, **Yamei Li**†, Yunxi Tang, Yangmin Li, Lidong Yang<br>
   The International Journal of Robotics Research (IJRR), 2026. (JCR Q1, IF: 5.0)<br>
+- **Rapid Online Distribution Planning and Data-Driven Shape Control for Reconfigurable Magnetic Microswarms**<br>
+  **Yamei Li**, Jiachi Zhao, Danjing Shi, Yun Wang, Yangmin Li, Lidong Yang<br>
+  IEEE/ASME Transactions on Mechatronics (IJRR), 2026. (JCR Q1, IF: 6.3)<br>
 - **Physics-constrained Learning Framework for Trustworthy Microrobot Navigation Autonomy**<br>
    Jiachi Zhao, **Yamei Li**, Yinghan Sun, Yun wang, Aoji Zhu, Danjing Shi, Xiang Li, Qing Chen, Chunhui Yuan, Antoine Ferreira, Li Zhang, Kai-Leung Yung, Lidong Yang<br>
    Science Advances, 2026. (JCR Q1, IF: 12.5)<br>
