@@ -36,7 +36,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
   The International Journal of Robotics Research (IJRR), 2026. (JCR Q1, IF: 5.0)<br>
 - **Rapid Online Distribution Planning and Data-Driven Shape Control for Reconfigurable Magnetic Microswarms**<br>
   **Yamei Li**, Jiachi Zhao, Danjing Shi, Yun Wang, Yangmin Li, Lidong Yang<br>
-  IEEE/ASME Transactions on Mechatronics (IJRR), 2026. (JCR Q1, IF: 6.3)<br>
+  IEEE/ASME Transactions on Mechatronics (T-Mech), 2026. (JCR Q1, IF: 6.3)<br>
 - **Physics-constrained Learning Framework for Trustworthy Microrobot Navigation Autonomy**<br>
    Jiachi Zhao, **Yamei Li**, Yinghan Sun, Yun wang, Aoji Zhu, Danjing Shi, Xiang Li, Qing Chen, Chunhui Yuan, Antoine Ferreira, Li Zhang, Kai-Leung Yung, Lidong Yang<br>
    Science Advances, 2026. (JCR Q1, IF: 12.5)<br>
@@ -47,7 +47,7 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 - **A Hierarchical Framework for Real-Time Path Planning of Microswarm in Dynamic Environments**<br>
    **Yamei Li**, Ruijian Ge, Aoji Zhu, Jiachi Zhao, Danjing Shi, Yangmin Li, Lidong Yang<br>
    IEEE Robotics and Automation Letters (RAL), 2026. (JCR Q1, IF: 5.3)<br>
-   (**ICRA 2026 Poster**, <span style="color:#d32f2f">**IEEE IROS RAS Travel Grant Award**</span>)
+   (**ICRA 2026 Poster**, <span style="color:#d32f2f">**IEEE ICRA RAS Travel Grant Award**</span>)
 - **Automated Magnetic Microrobot Control: From Mathematical Modeling to Machine Learning**<br>
    **Yamei Li**, Yingxin Huo, Xiangyu Chu, Yangmin Li, Lidong Yang<br>
    Mathematics, 2025. (JCR Q1, IF: 2.2)<br>
