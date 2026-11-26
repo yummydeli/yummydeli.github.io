@@ -77,7 +77,9 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
 - ISE3018: Logistics Automation, 2025-2026 Fall.
+  Guided students through a robotic spray-painting lab in RoboDK, helping them program the robot’s motion and verify the spray path in simulation.
 - ISE5312: Industrial Human-Robot Systems and Automation, 2025-2026 Spring.
+  Guided students through a robotic pick-and-place lab, helping them program and test the sequence for picking up, moving, and placing objects.
 
 # 🏆 Selected Honors and Awards
 - HKSAR Government Scholarship Fund - Reaching Out Award 2025/26
