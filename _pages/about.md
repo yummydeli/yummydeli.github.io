@@ -76,8 +76,8 @@ I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/l
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
-- ISE3018: Logistics Automation, 2025-2026 Spring.
-- ISE5312: Industrial Human-Robot Systems and Automation, 2025-2026 Fall.
+- ISE3018: Logistics Automation, 2025-2026 Fall.
+- ISE5312: Industrial Human-Robot Systems and Automation, 2025-2026 Spring.
 
 # 🏆 Selected Honors and Awards
 - HKSAR Government Scholarship Fund - Reaching Out Award 2025/26
